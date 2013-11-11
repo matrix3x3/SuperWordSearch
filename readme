@@ -1,0 +1,5 @@
+How to compile these files?
+
+A Makefile is provided here. Just 'make' it!
+
+'make clean' to clear this proj.
